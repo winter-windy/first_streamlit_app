@@ -1,3 +1,4 @@
 create the main python file
 import streamlit
-import snowflake.connector
+streamlit run first_streamlit.py
+
