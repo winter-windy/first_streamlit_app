@@ -1,4 +1,6 @@
 #requirements.txt
+
+streamlit
 snowflake-connector-python[pandas]
 
 import snowflake.connector
