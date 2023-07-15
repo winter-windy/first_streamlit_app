@@ -2,4 +2,3 @@
 
 snowflake-connector-python[pandas]
 
-import snowflake.connector
