@@ -1,4 +1,4 @@
 #requirements.txt
 
 import streamlit
-streamlit==0.75.0
+
