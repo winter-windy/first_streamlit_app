@@ -1,5 +1,5 @@
 #requirements.txt
 
-import streamlit
+import streamlit==0.75.0
 snowflake-connector-python[pandas]
 import snowflake.connector
